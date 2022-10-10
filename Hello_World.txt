@@ -3,5 +3,6 @@
 void main()
 {
 	printf("Hello World");
-	return 1;
+	printf("\n");
+	//줄내림
 }
